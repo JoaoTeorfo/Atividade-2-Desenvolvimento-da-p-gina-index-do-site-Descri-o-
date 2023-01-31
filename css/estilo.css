@@ -1,0 +1,42 @@
+header img{
+    height: 70px;
+    width: 70px;
+}
+
+main{
+    min-height: 500px;
+
+}
+#section-banners img {
+    height: 500px;
+}
+
+
+#section-Vendidos h2 {
+    font-weight: bold;
+    padding: 20px;
+}
+#section-vendidos img {
+    height: 300px;
+    border-radius: 10px;
+}
+
+#section-vendidos .card {
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    }
+    #section-vendidos .preco {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+    }
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    font-weight: bold;
+    padding: 10px;
+}
